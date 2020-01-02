@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\stecco\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\stecco\\.nuget\\packages"
+    ]
+  }
+}
